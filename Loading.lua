@@ -81,4 +81,3 @@ local CreditsSection = Credits:NewSection("Credits")
 
 CreditsSection:NewLabel("By: Pato (math193i)")
 
-
