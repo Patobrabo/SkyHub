@@ -81,6 +81,4 @@ local CreditsSection = Credits:NewSection("Credits")
 
 CreditsSection:NewLabel("By: Pato (math193i)")
 
-CreditsSection:NewButton("Discord", "", function()
-    https://discord.io/Pato-Corporation
-end)
+
